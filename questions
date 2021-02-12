@@ -1,0 +1,33 @@
+Angular
+--------------
+how angular application will be bootstrap once you run 'ng serve' command - 
+What are the communication methods available in the angular to the communication b/w components - 
+LifeCycle Hooks - 
+pipes & scenarios -
+Routing & Lazy Loading & Scenario -  
+diff b/w observable and promise - 
+rxjs operators(pipe, switch mpa, merge map, forkJoin(), combinelatest) - 
+forms & setvalue, patchvalue, reset methods - 
+http interceptors - 
+What approaches you follow to improve application performance from angular side - 
+
+Javascript
+---------------
+New features of ES6 - 
+Hoisting - 
+call(), apply(), bind() - 
+Explain Closures in JavaScript - 
+What is the prototype in javascript - 
+What is diff b/w window object and document object in javascript -
+What are the datatypes in javascript - 
+What is the null and undefined - 
+Storage - 
+few js methods (map, reduce, filter) - 
+Event Bubbling and Event Capturing - 
+task to display unique elements from array without using for loop 
+
+CSS
+-----------------
+How you achieve responsiveness web design using css and how will you achieve with the bootstrap - 
+
+HTML5 features - 
